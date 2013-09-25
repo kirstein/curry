@@ -14,7 +14,8 @@ Not yet...
 ## Example Usage
 
 
-*. function prototype
+* function prototype  
+
 ``` js
 require('curry');
 var equals = function(x, y) { return x === y; }
@@ -27,7 +28,7 @@ equalHundred(200) === 100;
 // false
 ```
 
-*. require response  
+* require response   
 
 ``` js
 var curry = require('curry');  
